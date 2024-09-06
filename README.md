@@ -27,3 +27,4 @@ This project is a simple implementation of Conway's Game of Life using Pygame. T
 - **G Key**: Generate a random set of live cells.
 
 *This game was made with this tutorial: https://youtu.be/YDKuknw9WGs?si=rEJOxVY-_CPvuBJA*
+![](life.JPG)
